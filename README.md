@@ -6,4 +6,4 @@
   - Creación de elementos en html y modificación de posiciones absolutas y relativas en css y js.
   
 ------------------------------------
-* [Revisa el resultado aquí](http://mili01gm.github.io/positioning)
+[Revisa el resultado aquí](http://mili01gm.github.io/positioning)
