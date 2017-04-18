@@ -18,6 +18,8 @@ body {
 }
 
 #azul {
+  position: relative;
+  left: 200px;
   background-color: #2B7DB9;
 }
 
