@@ -11,29 +11,23 @@ body {
 .cajita {
   width: 200px;
   height: 200px;
-  position: absolute;
 }
 
 #rosa {
-  top: 0;
-  left: 0;
   background-color: #EE3E64;
 }
 
 #azul {
-  top: 0;
-  right: 0;
+  position: absolute;
+  top: 200px;
+  left: 200px;
   background-color: #2B7DB9;
 }
 
 #verde {
-  bottom: 0;
-  left: 0;
   background-color: #B7D84B;
 }
 
 #amarillo {
-  bottom: 0;
-  right: 0;
   background-color: #FAFF16;
 }
